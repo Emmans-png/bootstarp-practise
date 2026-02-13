@@ -1,0 +1,22 @@
+:root{
+      --primary-color:#3e396b;
+      --secondary-color:#6f23ff;
+}
+
+section>div>.text{
+      font-family: "Domine", serif;
+      font-size: 40px;
+}
+section>div>p{
+      font-family: "Montserrat", sans-serif;
+      font-size: 17px;
+}
+section>div>.card1{
+      background-color: #6f23ff;
+      color: aliceblue;
+
+}
+section>div>.card2{
+      background-color: #3e396b;
+      color: aliceblue;
+}
